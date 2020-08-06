@@ -27,7 +27,7 @@
 			"SMALLINT":"Integer",
 			"VARCHAR":"String",
 			"FLOAT8":"Double",
-			"FLOAT4":"Floatfloat"
+			"FLOAT4":"Float"
 		},
 		"changeType":{
 			"SERIAL":"int",
