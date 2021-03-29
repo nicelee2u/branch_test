@@ -61,7 +61,7 @@
 			"BIGSERIAL":"yes",
 			"TINYINT":"yes",
 			"INTEGER":"yes",
-			"FLOAT4":"yes"
+			"FLOAT4":"yes2"
 		}
 	},
 	"mysql":{
