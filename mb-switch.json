@@ -62,7 +62,9 @@
 			"TINYINT":"yes",
 			"INTEGER":"yes",
 			"FLOAT4":"yes2"
-			sdfasd
+
+
+			
 		}
 	},
 	"mysql":{
